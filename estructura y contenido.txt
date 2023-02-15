@@ -1,0 +1,10 @@
+Secciones para = 
+    *Home ---- Nombre - Pequeña descripcion - Foto
+
+    *Trabajos ---- Trabajos realizados en un carrousel con el link de github
+
+    *Abaut ------------ Resumen de mis habilidades, experiencias, trabajos, linkedin, etc
+
+    *Skills -----------
+
+    *Contact ------------ Seccion para emviar correo con un formulario y abajo links a redes
