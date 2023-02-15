@@ -17,7 +17,6 @@ closeMenu.addEventListener('click', () =>{
   ocultarWorks.classList.remove('ocultar')
 })
 
-console.log(navLinks)
 
 navLinks.forEach(navLink => {
     navLink.addEventListener('click', ()=>{

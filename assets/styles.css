@@ -393,7 +393,7 @@ p{
 
 
 /* Medias queris */
-@media screen and (max-width: 950px){
+@media (max-width: 950px){
 
     .skills-tipe-container{
         display: flex;
@@ -402,7 +402,7 @@ p{
     }
 }
 
-@media screen and (max-width: 750px) {
+@media (max-width: 750px) {
     .home-container{
         grid-template-areas: 
         "foto titulo"
@@ -465,7 +465,7 @@ p{
 
 }
 
-@media screen and (max-width: 690px) {
+@media (max-width: 690px) {
 
     .container{
         padding-inline: 1rem;
